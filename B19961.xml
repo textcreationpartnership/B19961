@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the king. A proclamation for the putting in execution of the several laws now in force, relating to His Majesties revenue of excise.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19961</idno><idno type="EEBO-CITATION">99884446_191388</idno>
+  <idno type="VID">191388</idno>
+  <idno type="EEBO-PROQUEST">2248518298</idno>
+  
+            <idno type="STC">Wing C3509</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.2[198]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.9[193]</idno>
+            <idno type="STC">ESTC R214876</idno>
+            <idno type="PROQUEST">ocm99884446</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884446e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19961)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191388)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:1[198]; C18:2[193a]; C18:2[193b])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the king. A proclamation for the putting in execution of the several laws now in force, relating to His Majesties revenue of excise.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>printed by the assigns of John Bill deceas'd: and by Henry Hills, and Thomas Newcomb, printers to the kings most excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: Given at our court at Windsor the twentieth day of June 1683. In the five and thirtieth year of our reign.</note>
+                  <note>Steele notation: Arms 92  day Farms 2) Our Employments,.</note>
+                  <note>Item at reel C18:2[193] filmed twice.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Excise tax --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:191388:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal arms of England, circa 1683</figDesc>
+                  <p>HONI · SOIT · QVI MAL · Y · PENSE</p>
+                  <p>DIEV · ET · MON · DROIT.</p>
+               </figure> By the King. A PROCLAMATION For the putting in Execution of the several Laws now in force, relating to His Majesties Revenue of Excise.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by several Acts made at the Parliament begun at <hi>Westminster</hi> the Five and twentieth day of <hi>April,</hi> in the Twelfth year of Our Reign, The one Intituled, <hi>A Grant of certain Impositions upon Beer, Ale, and other Liquors, for the Increase of His Majesties Revenue during His Life;</hi> The other Intituled, <hi>An Act for taking away the Court of Wards and Liveries, and Tenures in <hi>Capite,</hi> and by Knights Service, and Purveyance;</hi> And for settling a Revenue upon His Majesty in liew thereof, divers Rates, Duties and Impositions of Excise are Imposed and Set on Beér, Ale, Sider, Perry, Metheglin, Strong-waters, <hi>Aquavitae,</hi> Coffee, Chocalate, Sherbet, Tea, and divers other Li<g ref="char:EOLhyphen"/>quors Brewed, Made, Retailed or Sold, Brought or Imported into or within the Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed:</hi> And whereas since the ma<g ref="char:EOLhyphen"/>king the said Acts, We have by divers ways and methods endeavoured to come to the true knowledge of the value of the said Revenue, sometimes by Demising the same by particular Farms of particular Counties, and sometimes by Demising the whole in one Farm, and some<g ref="char:EOLhyphen"/>times by Farming and Managing the whole at certain Charges and Allowances, during which time divers Complaints have beén made unto Vs by Our said Farmers and Managers of Our said Revenue, that the said Revenue hath been much diminished and lessened, and the Collecting, Receiving, and Ascertaining the same much impeded and disturbed; for that some of Our Iustices of the Peace have altogether refused to act as Iustices in any matters relating to Our said Revenue, and others have given Iudgments contrary to the said Acts, and the plain and positive Evidence gi<g ref="char:EOLhyphen"/>ven by the Officers imployed for the Collecting, Receiving and Ascertaining the said Revenue, and have discouraged and discountenanced Our said Officers imployed as aforesaid, and countenanced and encouraged several Offenders; And many times the reasons given by Our said Iustices and others, for such their refusal and actings, have been, That the Profits and Advantages arising by the said Revenue, have gone to the particular Farmers and Mana<g ref="char:EOLhyphen"/>gers thereof, and have not been answered into Our Exchequer. And whereas for the better Collecting, Recei<g ref="char:EOLhyphen"/>ving, and Ascertaining Our said Revenue, and to the intent the same may be wholly answered in Our Exchequer, and applied to the end and intents in the said Acts specified; We have by Our Letters Patents and Commission under the Great Seal of <hi>England,</hi> bearing date the Nineteenth day of <hi>May</hi> last, Nominated, Constituted, and Ap<g ref="char:EOLhyphen"/>pointed, Sir <hi>Denny Ashburnham</hi> Baronet, <hi>Francis Parry</hi> Esquire, <hi>Robert Huntington</hi> Esquire, <hi>Charles Davenant</hi> Doctor of Laws, <hi>John Friend</hi> Esquire, <hi>Felix Calvert</hi> Esquire, and <hi>Nathaniel Horneby</hi> Esquire, from and after the Four and twentieth day of <hi>June,</hi> in the Five and thirtieth year of Our Reign, to be Our Chief Commissioners and Gover<g ref="char:EOLhyphen"/>nours for the Management and Receit of Our said Revenue, and for the Paying and Answering the same into the Receipt of Our Exchequer. Therefore We have thought fit by and with the Avvice of Our Privy Council, by this Our Royal Proclamation to Publish and Declare, That Our Will and Pleasure is, That all and every the Laws and Statutes touching or relating to Our said Revenue of Excise now in force, be duely put in Execution according to the true intent and meaning of them, and every of them; And that all Our Iudges and Iustices at the Assizes, and all Iustices of the Peace at their respective Quarter Sessions, do give all and every the Laws touching Our said Re<g ref="char:EOLhyphen"/>venue of Excise now in force, in Charge to all Grand Iuries, and others, to the intent the same may be the better known, and put in Execution, and that all Offenders against the said Acts, or any of them, may be duely punished, and that all Fines, Penalties, and Forfeitures against the said Acts, may be duely Levied and Answered to Vs, and to the respective Informers, Church-wardens, and Overseérs of the Poor, as the said Acts direct. And We do hereby streightly Charge and Command all Our Iustices of the Peace, Mayors, Bayliffs, and other Magistrates whom this may concern, That where any Informations or Complaints shall be brought or Exhibited before them, or any of them, relating to Our said Revenue of Excise, That they in their respective Circuits and Divisions do duely and diligently attend the Hearing and Determining the same according to Law, and do Issue out their Warrants against the Offenders, for the Levying of such Fines, Penalties, or Forfeitures, as shall be by them from time to time Adjuged or Inflicted: And We do further streightly Charge and Command all Our said Iustices of the Peace, Mayors, Bayliffs, Sheriffs, and all Our Officers and Ministers of Iustice, and all Constables, Headboroughs, Tything-men, and all other Offi<g ref="char:EOLhyphen"/>cers of Our Peace, That they be from time to time Aiding, Helping, and Assisting unto Our said Commissioners and Governours of Excise, and all their Officer and Officers, in the Execution of their respective Offices and Employments, as they will answer the contrary at their utmost perils.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Windsor</hi>
+                  </hi>
+                  <date>
+                     <hi>the Twentieth day of <hi>June</hi> 1683. In the five and thirtieth year of Our Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by the Assigns of <hi>John Bill</hi> deceas'd: And by <hi>Henry Hills,</hi> and <hi>Thomas Newcomb,</hi> Printers to the Kings most Excellent Majesty. 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
